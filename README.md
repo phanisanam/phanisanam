@@ -37,15 +37,7 @@ src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 ---
 
-## 🌱 Currently Learning
 
-- 🤖 Agentic AI
-- 🧠 LangGraph
-- 🚀 Microsoft Fabric
-- 🔥 Databricks Mosaic AI
-- 💬 Azure AI Foundry
-- 📚 MCP (Model Context Protocol)
-- 🔍 Advanced RAG Architectures
 
 ---
 
@@ -98,14 +90,6 @@ src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 - RAG Pipeline
 - Grounded LLM Responses
 
-### 📊 Azure Lakehouse Platform
-
-- Azure Data Factory
-- Azure Databricks
-- Delta Lake
-- Unity Catalog
-- Medallion Architecture
-- Metadata-driven ETL
 
 ### ✈️ Flight Analytics Platform
 
@@ -136,25 +120,11 @@ src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 ---
 
-## 📊 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanikumar-s&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phanikumar-s&theme=tokyo-night"/>
-
-</p>
-
----
 
 ## 🎯 Core Expertise
 
