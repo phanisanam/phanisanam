@@ -1,46 +1,199 @@
-<h1 align="center">Hi 👋, I'm Phani Kumar </h1>
-<h4 align="center">I am a passionate Data Engineer with over 4 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I’m also a Databricks Certified Associate Developer . I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
+<h1 align="center">Hi 👋, I'm Phani Kumar</h1>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<h3 align="center">
+Senior AI Data Engineer | Azure | Databricks | Microsoft Fabric | Generative AI | RAG | LLM Applications
+</h3>
 
-- 🔭 I’m a **Data Engineer**
+<p align="center">
+Building scalable data platforms and AI-powered applications using Azure, Databricks, Microsoft Fabric, Apache Spark, and Large Language Models.
+</p>
 
-- 👨‍💻 Ask me about **Cloud Data Engineering**
+<p align="center">
 
-- 💬 LinkedIn **https://www.linkedin.com/in/phanikumar-s/**
+<a href="https://www.linkedin.com/in/phanikumar-s/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> 
-</a><a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/> 
-</a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40"/> 
- 
-</a> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> 
-</a> </p>
+<a href="mailto:sphanikumar962@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  
-  
-  
-  
-  
-  
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=phanikumar-s&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=phanikumar-s&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
-<!--
-**phanisanam/phanisanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="400"
+src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
+## 🚀 About Me
+
+- 💼 Senior Data Engineer with **4+ years** of experience designing enterprise-scale cloud data platforms.
+- 🤖 Transitioning into **AI Data Engineering** by combining modern data engineering with Generative AI.
+- ☁️ Specialized in **Azure, Databricks, Microsoft Fabric, Spark, Delta Lake, and Lakehouse Architecture**.
+- 🧠 Building **RAG applications, Vector Search solutions, AI Agents, and LLM-powered enterprise applications**.
+- ⚡ Passionate about scalable ELT pipelines, metadata-driven architectures, and AI-powered analytics.
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Agentic AI
+- 🧠 LangGraph
+- 🚀 Microsoft Fabric
+- 🔥 Databricks Mosaic AI
+- 💬 Azure AI Foundry
+- 📚 MCP (Model Context Protocol)
+- 🔍 Advanced RAG Architectures
+
+---
+
+## 🛠 Tech Stack
+
+### ☁️ Cloud & Data Platforms
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6B46C1?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E2D?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+### ⚡ Data Engineering
+
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0A84FF?style=for-the-badge)
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt)
+
+### 🤖 AI Engineering
+
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![Mosaic AI](https://img.shields.io/badge/Databricks_Mosaic_AI-EF3E2D?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-success?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-blueviolet?style=for-the-badge)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge)
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Enterprise AI Chatbot
+
+- Azure AI Foundry
+- Azure AI Search
+- LangChain
+- Hybrid Search
+- Vector Database
+- RAG Pipeline
+- Grounded LLM Responses
+
+### 📊 Azure Lakehouse Platform
+
+- Azure Data Factory
+- Azure Databricks
+- Delta Lake
+- Unity Catalog
+- Medallion Architecture
+- Metadata-driven ETL
+
+### ✈️ Flight Analytics Platform
+
+- Azure Databricks
+- Autoloader
+- Delta Live Tables
+- PySpark
+- Power BI
+
+---
+
+## 🏆 Certifications
+
+- 🏅 Databricks Certified Data Engineer Associate
+- 🏅 Deloitte DATA & AI Certification
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=phanikumar-s&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phanikumar-s&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanikumar-s&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phanikumar-s&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🎯 Core Expertise
+
+- AI Data Engineering
+- Azure Data Engineering
+- Microsoft Fabric
+- Azure Databricks
+- Apache Spark
+- Delta Lake
+- Data Warehousing
+- Lakehouse Architecture
+- ELT / ETL Pipelines
+- CDC
+- Data Modeling
+- RAG
+- Azure AI Foundry
+- Azure OpenAI
+- LangChain
+- Databricks Mosaic AI
+- Vector Search
+- Prompt Engineering
+- AI Agents
+- Python
+- SQL
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** sphanikumar962@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/phanikumar-s/
+
+💻 **GitHub:** https://github.com/phanikumar-s
+
+---
+
+<p align="center">
+
+⭐ **Thanks for visiting my profile! Feel free to connect and collaborate on Data Engineering & AI projects.**
+
+</p>
