@@ -77,43 +77,11 @@ src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Enterprise AI Chatbot
-
-- Azure AI Foundry
-- Azure AI Search
-- LangChain
-- Hybrid Search
-- Vector Database
-- RAG Pipeline
-- Grounded LLM Responses
-
-
-### ✈️ Flight Analytics Platform
-
-- Azure Databricks
-- Autoloader
-- Delta Live Tables
-- PySpark
-- Power BI
-
----
 
 ## 🏆 Certifications
 
 - 🏅 Databricks Certified Data Engineer Associate
 - 🏅 Deloitte DATA & AI Certification
-
----
-
-
-
-
-
-
-
----
 
 
 
@@ -132,7 +100,6 @@ src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 - Data Modeling
 - RAG
 - Azure AI Foundry
-- Azure OpenAI
 - LangChain
 - Databricks Mosaic AI
 - Vector Search
