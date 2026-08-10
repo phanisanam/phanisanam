@@ -48,6 +48,7 @@ src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6B46C1?style=for-the-badge)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E2D?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### ⚡ Data Engineering
 
