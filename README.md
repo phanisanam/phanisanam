@@ -108,17 +108,9 @@ src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 ---
 
-## 📈 GitHub Statistics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phanikumar-s&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phanikumar-s&theme=tokyonight"/>
-
-</p>
-
----
 
 
 
