@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phani Kumar</h1>
 
 <h3 align="center">
-Senior AI Data Engineer | Azure | Databricks | Microsoft Fabric | Generative AI | RAG | LLM Applications
+ AI Data Engineer | Azure | Databricks | Microsoft Fabric | Generative AI | RAG | LLM Applications
 </h3>
 
 <p align="center">
